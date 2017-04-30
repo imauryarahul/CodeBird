@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502862734227",
+    "project_id": "spaceapp-166106"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502862734227:android:1264f573c03e7f98",
+        "android_client_info": {
+          "package_name": "com.nasaspaceapps.codebird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502862734227-idgcn646fgtq6emsdc8gcephsqu0uf1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nasaspaceapps.codebird",
+            "certificate_hash": "42a8b3649d279ad396f659775c172995ee8b166e"
+          }
+        },
+        {
+          "client_id": "502862734227-r8rgo8qu0hrrbkad3oq4i1q97ckmv8nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4eAvpa99R8qm3PEDIp_5GD5lbbefrihA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
