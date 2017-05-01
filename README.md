@@ -17,4 +17,4 @@ Users can also upload new sightings of these birds and compare their score with 
 This gamification of the conservation drive might help get more people involved in the process.
 
 ## Live Project
-You can watch our project live in given link: <a href="http://tnine.io/codebird/">CodeBird</a>
+You can watch our project live in given link: <a href="http://tnine.io/codebird/" target="_blank">CodeBird</a>
