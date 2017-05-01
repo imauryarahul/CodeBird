@@ -15,3 +15,6 @@ We try to involve the user in the process from the very beginning.
 Their are exciting activities performing which they would become more aware about these birds and how humans are affected by their survival.  
 Users can also upload new sightings of these birds and compare their score with others on a leaderboard.  
 This gamification of the conservation drive might help get more people involved in the process.
+
+## Live Project
+You can watch our project live in given link: <a href="http://tnine.io/codebird/">CodeBird</a>
